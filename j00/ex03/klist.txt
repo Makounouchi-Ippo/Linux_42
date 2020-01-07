@@ -1,0 +1,8 @@
+Credentials cache: API:E1CDC523-C698-47E6-BF4C-FC185B3B4F6E
+        Principal: mehel-ka@42.FR
+
+  Issued                Expires               Principal
+Aug 28 17:54:05 2017  Sep  4 17:54:05 2017  krbtgt/42.FR@42.FR
+Aug 28 17:54:06 2017  Sep  4 17:54:05 2017  ldap/ldap-proxy.42.fr@42.FR
+Aug 28 17:54:06 2017  Sep  4 17:54:05 2017  HTTP/student-storage-2.42.fr@42.FR
+Aug 28 18:04:49 2017  Sep  4 17:54:05 2017  host/vgs-fn1.42.fr@42.FR
